@@ -2,5 +2,5 @@ fBlogger
 
 A fashion blogging Website
 
-Owner- Aryan Karn
-Email- karnaryan253@gmail.com
+Owner- Deepanshu Rai
+Email- deepanshu.rai.1501@gmail.com
